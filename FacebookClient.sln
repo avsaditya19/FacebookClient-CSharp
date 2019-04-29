@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookClient", "FacebookClient\FacebookClient.csproj", "{8E44EA30-79ED-4890-B34B-C49010CFDB60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E44EA30-79ED-4890-B34B-C49010CFDB60}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{8E44EA30-79ED-4890-B34B-C49010CFDB60}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{8E44EA30-79ED-4890-B34B-C49010CFDB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E44EA30-79ED-4890-B34B-C49010CFDB60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5BD59AD-2300-4864-80B2-5C3A7AC9FF24}
+	EndGlobalSection
+EndGlobal
